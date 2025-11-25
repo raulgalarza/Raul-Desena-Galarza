@@ -5,9 +5,9 @@
 
 📍 Madrid, Spain · 🌎 Remote-Friendly (US & EU Timezones)
 
-[![GitHub](https://img.shields.io/badge/GitHub-rauldesena-181717?logo=github)](https://github.com/raulgalarza)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rauldesena-0A66C2?logo=linkedin)](https://www.linkedin.com/in/ra%C3%BAl-desena-galarza-765a151b4/)
-[![Email](https://img.shields.io/badge/Email-raul.desena.dev%40gmail.com-red?logo=gmail)](mailto:rauldesenagalarza@gmail.com)
+[![GitHub](https://github.com/raulgalarza)]
+[![LinkedIn](https://www.linkedin.com/in/ra%C3%BAl-desena-galarza-765a151b4/)]
+[![Email](mailto:rauldesenagalarza@gmail.com)]
 
 ---
 
