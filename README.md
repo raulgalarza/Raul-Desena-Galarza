@@ -47,22 +47,22 @@ A complete online store with:
 - SQL Server + EF Core backend  
 
 **Tech:** ASP.NET Core MVC · Razor · EF Core · SQL Server · Stripe  
-![Preview]([EmaAndClay/demo_screenshots/storefront.png](https://github.com/user-attachments/assets/3858a075-6644-44e2-b311-0a9aca3d2d6e))
+![Preview](https://github.com/user-attachments/assets/3858a075-6644-44e2-b311-0a9aca3d2d6e)
 
-<img width="1470" height="727" alt="14" src="https://github.com/user-attachments/assets/3858a075-6644-44e2-b311-0a9aca3d2d6e" />
-<img width="1503" height="729" alt="13" src="https://github.com/user-attachments/assets/274c31c2-b3e6-41e6-bfcd-673954d108cd" />
-<img width="1151" height="778" alt="12" src="https://github.com/user-attachments/assets/c21c17d6-ca10-4a59-a8be-c86439aca16e" />
-<img width="1585" height="845" alt="11" src="https://github.com/user-attachments/assets/87b17c89-9335-477a-8581-808412524600" />
-<img width="1586" height="853" alt="10" src="https://github.com/user-attachments/assets/77e3982c-72d9-48e0-ab27-5f47b7821d84" />
-<img width="1587" height="856" alt="9" src="https://github.com/user-attachments/assets/7e650de9-eabb-43aa-abcf-ea0136317bf9" />
-<img width="1584" height="848" alt="8" src="https://github.com/user-attachments/assets/1db2c2c7-8210-40d3-ae19-b05bf55265c0" />
-<img width="1560" height="844" alt="7" src="https://github.com/user-attachments/assets/2de79113-f102-4c64-a519-73dab8ae76cb" />
-<img width="1568" height="855" alt="6" src="https://github.com/user-attachments/assets/38a3eb0f-ac35-4305-8524-404fd4200473" />
-<img width="1572" height="858" alt="5" src="https://github.com/user-attachments/assets/94753e22-7a98-41a7-9101-2ba2cdaabd10" />
-<img width="1582" height="848" alt="4" src="https://github.com/user-attachments/assets/f96e8778-0a59-490e-a979-27feaf20cbc3" />
-<img width="1583" height="847" alt="3" src="https://github.com/user-attachments/assets/7a9fb66d-66fe-4bc8-8ae4-16989025a35a" />
-<img width="1586" height="857" alt="2" src="https://github.com/user-attachments/assets/7c7c65a6-1d18-4a91-bb71-bd4014569260" />
 <img width="1589" height="859" alt="1" src="https://github.com/user-attachments/assets/bc3f58ba-f485-4098-b5c9-6b48ee92ebad" />
+<img width="1586" height="857" alt="2" src="https://github.com/user-attachments/assets/7c7c65a6-1d18-4a91-bb71-bd4014569260" />
+<img width="1583" height="847" alt="3" src="https://github.com/user-attachments/assets/7a9fb66d-66fe-4bc8-8ae4-16989025a35a" />
+<img width="1582" height="848" alt="4" src="https://github.com/user-attachments/assets/f96e8778-0a59-490e-a979-27feaf20cbc3" />
+<img width="1572" height="858" alt="5" src="https://github.com/user-attachments/assets/94753e22-7a98-41a7-9101-2ba2cdaabd10" />
+<img width="1568" height="855" alt="6" src="https://github.com/user-attachments/assets/38a3eb0f-ac35-4305-8524-404fd4200473" />
+<img width="1560" height="844" alt="7" src="https://github.com/user-attachments/assets/2de79113-f102-4c64-a519-73dab8ae76cb" />
+<img width="1584" height="848" alt="8" src="https://github.com/user-attachments/assets/1db2c2c7-8210-40d3-ae19-b05bf55265c0" />
+<img width="1587" height="856" alt="9" src="https://github.com/user-attachments/assets/7e650de9-eabb-43aa-abcf-ea0136317bf9" />
+<img width="1586" height="853" alt="10" src="https://github.com/user-attachments/assets/77e3982c-72d9-48e0-ab27-5f47b7821d84" />
+<img width="1585" height="845" alt="11" src="https://github.com/user-attachments/assets/87b17c89-9335-477a-8581-808412524600" />
+<img width="1151" height="778" alt="12" src="https://github.com/user-attachments/assets/c21c17d6-ca10-4a59-a8be-c86439aca16e" />
+<img width="1503" height="729" alt="13" src="https://github.com/user-attachments/assets/274c31c2-b3e6-41e6-bfcd-673954d108cd" />
+<img width="1470" height="727" alt="14" src="https://github.com/user-attachments/assets/3858a075-6644-44e2-b311-0a9aca3d2d6e" />
 <img width="1413" height="674" alt="15" src="https://github.com/user-attachments/assets/7e570e92-7c6a-4732-9a76-0291005b6168" />
 ---
 
