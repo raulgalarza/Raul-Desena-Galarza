@@ -47,7 +47,8 @@ A complete online store with:
 - SQL Server + EF Core backend  
 
 **Tech:** ASP.NET Core MVC · Razor · EF Core · SQL Server · Stripe  
-![Preview](https://github.com/user-attachments/assets/3858a075-6644-44e2-b311-0a9aca3d2d6e)
+
+## 💎 **Ema & Clay – Demo Screenshots**
 
 <img width="1589" height="859" alt="1" src="https://github.com/user-attachments/assets/bc3f58ba-f485-4098-b5c9-6b48ee92ebad" />
 <img width="1586" height="857" alt="2" src="https://github.com/user-attachments/assets/7c7c65a6-1d18-4a91-bb71-bd4014569260" />
