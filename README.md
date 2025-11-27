@@ -93,8 +93,19 @@ A modern platform for ministries with:
 - JWT-secured admin API  
 - Scalable modular design  
 
-**Tech:** .NET 8 Web API · EF Core · SQL Server · Vue 3 · Razor · Stripe · JWT  
-![Preview](ChurchWeb/demo_screenshots/dashboard.png)
+**Tech:** .NET 8 Web API · EF Core · SQL Server · Vue 3 · Stripe · JWT  
+
+## 💎 **PCS CHURCH – Demo Screenshots**
+
+<img width="1399" height="770" alt="C11" src="https://github.com/user-attachments/assets/0426a6c2-153c-4d98-a97d-3a02211255ae" />
+<img width="1266" height="740" alt="C10" src="https://github.com/user-attachments/assets/52edf8bf-4c06-42b8-ac71-06f7eb47cebc" />
+<img width="1294" height="729" alt="C9" src="https://github.com/user-attachments/assets/064d8089-8d00-45d6-95e0-f544f434ed0c" />
+<img width="1396" height="724" alt="C7" src="https://github.com/user-attachments/assets/3c2c9f18-b197-4259-b37b-fde54bc6c731" />
+<img width="1405" height="716" alt="C6" src="https://github.com/user-attachments/assets/8e116648-eb87-4582-85cd-acd780f4c800" />
+<img width="1340" height="717" alt="C4" src="https://github.com/user-attachments/assets/e80f765f-e437-46c7-a8de-88e3239b5089" />
+<img width="1406" height="776" alt="C3" src="https://github.com/user-attachments/assets/ca7dc5b2-34e5-446a-9cdd-31f2044f3a37" />
+<img width="1565" height="704" alt="C2" src="https://github.com/user-attachments/assets/9a2d35cb-cbfa-4f52-a308-7b1ba52ec76e" />
+<img width="1596" height="855" alt="C1" src="https://github.com/user-attachments/assets/2f283031-35e2-4c0d-bbda-41b89428ef89" />
 
 ---
 
