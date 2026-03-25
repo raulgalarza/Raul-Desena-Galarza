@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👨‍💻 **Raúl Desena Galarza**  
-### **Full Stack .NET Developer — ASP.NET Core — Entity Framework · MVC · Razor · Vue 2- Vue 3 · SQL Server**
+### **Full Stack .NET Developer — ASP.NET Core · Entity Framework · MVC · Razor · Vue 2- Vue 3 · SQL Server**
 
 📍 Madrid, Spain · 🌎 Remote-Friendly (US & EU Timezones)
 
